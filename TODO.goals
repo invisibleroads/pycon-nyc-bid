@@ -1,12 +1,16 @@
 = Organize team
-    = Send welcome message
-    Respond to inquiries
+    + Send welcome message
+    + Respond to inquiries
+    = Designate time for a weekly video conference
+    Review developments
 
 Fulfill requirements
     Show active Python community
     Show proximity to a major airport
     Find venue 
-        List possible venues
+        + List possible venues
+        + Ask pycon-organizers whether 2500 delegates must be in a room at once
+        Call NYC Tourism Bureau for venues that satisfy requirements
         Mark available time slots between February and April
         Negotiate prices
         Test wifi coverage
