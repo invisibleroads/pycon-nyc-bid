@@ -1,19 +1,20 @@
 # America/Los_Angeles 5/19/2013
-= Organize team
++ Organize team
     + Designate time for a weekly video conference
-    Draft agenda
-    Review developments
+    + Draft agenda
+    + Review developments
  
 Fulfill requirements
-    Show active Python community
-    Show proximity to a major airport
     Find venue
-        Call NYC Tourism Bureau for venues that satisfy requirements
-        Mark available time slots between February and April
+        + Call NYC Tourism Bureau for venues that satisfy requirements
+        + Mark available time slots between February and April
         Negotiate prices
         Test wifi coverage
     Find hotel rooms to support 2500 delegates at competitive rate
-        Talk with local tourism bureau
+        Ask how many people came from out-of-town at past PyCons
+        + Contact local tourism bureau
+    Show active Python community
+    Show proximity to a major airport
  
 Draft bid
     Describe user group
@@ -32,8 +33,9 @@ Draft bid
         Secure letter of invitation from NYC Mayor's Office
         Secure letter of invitation from NYC Economic Development Corporation
         Secure letter of invitation from NYC Python Meetup Group 
-    Read bid for Montreal at http://bit.ly/pycon-mtl-bid
-    Evaluate benefit to local schools and businesses
+        Secure letter of invitation from venue
+    + Evaluate benefit to local schools and businesses
+    + Read bid for Montreal at http://bit.ly/pycon-mtl-bid
  
 Coordinate with site selection committee
     Send bid to ewa@python.org [8/1/2013 12am]
