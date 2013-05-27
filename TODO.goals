@@ -2,6 +2,7 @@
 = Fulfill requirements
     = Find venue
         = Get creative venue ideas from NYC Tourism Bureau
+        Follow up on responses from candidate venues
         Negotiate prices
         Test wifi coverage
     Find hotel rooms to support 2500 delegates at competitive rate
@@ -21,6 +22,7 @@ Draft bid
     List hotels with locations and negotiated rates
     Show maps with points of interest around venue
     Secure letters of invitation
+        Confirm requests for letters of invitation
         Secure letter of invitation from NYC Tourism Bureau
         Secure letter of invitation from NYC Mayor's Office
         Secure letter of invitation from NYC Economic Development Corporation
@@ -31,3 +33,4 @@ Coordinate with site selection committee
     Expect short list [8/15/2013 12am]
     Expect site inspections [9/1/2013 12am]
     Expect selection [11/15/2013 12am]
+Ask OrlandoPy, TampaPy, MiamiPy if they are interested in hosting PyCon
