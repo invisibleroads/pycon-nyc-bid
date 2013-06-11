@@ -1,43 +1,52 @@
-# America/Los_Angeles 5/26/2013
+# America/Los_Angeles 6/11/2013
 = Fulfill requirements
     = Find venue
         = Get creative venue ideas from NYC Tourism Bureau
-            Talk with NYC Tourism Bureau
-                Does NYC & Company have stock promotional blurbs about New York City that we can include in the bid proposal?
+            = Talk with NYC Tourism Bureau
+                = Does NYC & Company have stock promotional blurbs about New York City that we can include in the bid proposal?
                 Does NYC & Company have a database of venues, their capacities and approximate costs?
                 Will NYC & Company be able to provide a letter of invitation for site inspections in September by the PyCon Site Selection Committee?
-                Are there discount packages we could offer to conference attendees?  Restaurants?  Broadway show tickets?   Museum admission?  Ballgames?
-        Follow up on responses from candidate venues
+                Are there discount packages we could offer to conference attendees? Restaurants? Broadway show tickets? Museum admission? Ballgames?
         Negotiate prices
         Test wifi coverage
     Find hotel rooms to support 2500 delegates at competitive rate
-        + Ask how many people came from out-of-town at past PyCons
     Show active Python community
     Show proximity to a major airport
 Draft bid
-    Describe user group
+    Demonstrate on-the-ground support
+        = Document support from New York conference organizers
+            = Include Python Meetup Group organizers
+                = Describe user group
+            Include PyData organizers
+            Include Python in Finance organizers
+            Include PyGotham organizers
+        Secure letters of invitation
+            Confirm requests for letters of invitation
+            = Secure letter of invitation from NYC Tourism Bureau
+            Secure letter of invitation from NYC Mayor's Office
+            Secure letter of invitation from NYC Economic Development Corporation
+            Secure letter of invitation from NYC Python Meetup Group
+            Secure letter of invitation from venue
+    Propose budget
+        Include budget breakdown
     Propose dates
-    Propose venue
+    Propose highlights
+        Propose highly applied industry-specific tracks to attract sponsorship
+        Consider hosting pre-conference reception at the Museum of Natural History
+        Consider hosting tutorials and sprints at a university
+    Propose venue options
+        Include multiple venue options
+            Include Queens-based proposal from Coalition for Queens
         Show detailed venue floor plans
         Show that it can support 2500 delegates
         Show extra rooms for open spaces
         Show area for expo hall
         Show network capacity of at least 100 Mbps
         Show wifi coverage
-    List hotels with locations and negotiated rates
-    Show maps with points of interest around venue
-    Secure letters of invitation
-        Confirm requests for letters of invitation
-        = Secure letter of invitation from NYC Tourism Bureau
-        Secure letter of invitation from NYC Mayor's Office
-        Secure letter of invitation from NYC Economic Development Corporation
-        Secure letter of invitation from NYC Python Meetup Group
-        Secure letter of invitation from venue
-    Consider hosting pre-conference reception at the Museum of Natural History
-    Consider hosting tutorials and sprints at a university
+        Show maps with points of interest around venue
+        List hotels with locations and negotiated rates
 Coordinate with site selection committee
     Send bid to ewa@python.org [8/1/2013 12am]
     Expect short list [8/15/2013 12am]
     Expect site inspections [9/1/2013 12am]
     Expect selection [11/15/2013 12am]
-_ Ask OrlandoPy, TampaPy, MiamiPy if they are interested in hosting PyCon
